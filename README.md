@@ -31,8 +31,8 @@ docker-compose up --build
 
 
 - Swagger docs on `localhost:8000/`
-<img src="https://github.com/rawheel/fastapi-boilerplate/blob/main/media/swagger%20docs.png" alt="fastapi boilerplate">
 
+[![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
