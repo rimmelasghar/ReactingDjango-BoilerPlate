@@ -1,6 +1,8 @@
 <h1 align="center">Reacting Django- A Django & React BoilerPlate 🚀</h1>
 
 [![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/reactingdjango2.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/reactingdjango2.jpg)
+ 
+--- 
 
 ## Motivation 🎯
 
@@ -18,11 +20,23 @@ A lightning-fast Django-React boilerplate with latest dependencies to start with
   -  ✅ React with functional components and hooks
   -  ✅ PostgreSQL supported
   -  ✅ Dockerize Application
-
-### 🚀 Up and run in 5 mins 🕙
+  -  ✅ TestDriven Development with Pytest
+  -  
+### 🚀 Installation & Setup 🚀
 Make sure you have docker and docker-compose installed [docker installation guide](https://docs.docker.com/compose/install/)
 
 ## Step 1
+
+create **.env** file in root folder.
+```
+DB_USER=postgres
+DB_PASSWORD=dbpassword
+DB_NAME=dbname
+DB_PORT=5432
+DB_HOST=localhost
+```
+
+## Step 2
 ```
 docker-compose up --build
 ```
@@ -38,5 +52,15 @@ docker-compose up --build
 
 [![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)
 
-
+## Step 3
+```
+⭐ This Repository
+```
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Troubleshooting
+
+If you are facing any problems, feel free to open an issue or contact me on rimmelasghar4@gmail.com
+
+License: MIT
+Code by Rimmel with ❤
