@@ -3,6 +3,8 @@ services:
     build: ./backend        
     ports:
       - "8000:8000"
+    env_file:
+      - .env
     volumes:
       - ./backend:/backend
     command: bash -c "python manage.py runserver 0.0.0.0:8000"
@@ -14,4 +16,13 @@ services:
     volumes:
       - ./frontend:/frontend
 
+  db:
+    image: postgres:15
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      - "POSTGRES_HOST_AUTH_METHOD=trust"
+
+volumes:
+  postgres_data:
 
