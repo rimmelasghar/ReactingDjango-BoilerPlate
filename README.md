@@ -19,7 +19,7 @@ A lightning-fast Django-React boilerplate with latest dependencies to start with
   -  ✅ PostgreSQL supported
   -  ✅ Dockerize Application
 
-# 🚀 Up and run in 5 mins 🕙
+### 🚀 Up and run in 5 mins 🕙
 Make sure you have docker and docker-compose installed [docker installation guide](https://docs.docker.com/compose/install/)
 
 ## Step 1
@@ -33,6 +33,10 @@ docker-compose up --build
 - Swagger docs on `localhost:8000/`
 
 [![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)
+
+- Your Application on `localhost:3000/`
+
+[![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
