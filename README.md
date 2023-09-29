@@ -36,7 +36,7 @@ docker-compose up --build
 
 - Your Application on `localhost:3000/`
 
-[![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/swagger.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)
+[![Main](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)](https://github.com/rimmelasghar/ReactingDjango-BoilerPlate/blob/main/image/README/app.jpg)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
