@@ -54,7 +54,7 @@ docker-compose up --build
 
 ## Step 3
 ```
-⭐ This Repository
+⭐ Star this Repository ⭐
 ```
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
